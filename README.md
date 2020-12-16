@@ -3,6 +3,7 @@ React Native BoilerPlate
 
 # Dependencies Installed 
 + <a href="https://reactnavigation.org/docs/getting-started">@react-Navigation/native </a>
++ <a href="https://reactnavigation.org/docs/hello-react-navigation">@react-Navigation/stack </a>
 + <a href="https://reactnavigation.org/docs/getting-started">@react-native-community/masked-view </a>
 + <a href="https://reactnavigation.org/docs/getting-started">react-native-gesture-handler </a>
 + <a href="https://reactnavigation.org/docs/getting-started">react-native-reanimated </a>
